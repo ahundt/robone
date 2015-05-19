@@ -82,7 +82,7 @@
 basis_project (
   # --------------------------------------------------------------------------
   # meta-data
-  NAME             "Robone"
+  NAME             "robone"
   VERSION          "0.0.0"
   AUTHORS          "Andrew Hundt"
                    #<author>
